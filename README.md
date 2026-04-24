@@ -1,1 +1,2 @@
 # sql-query-generator
+##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
